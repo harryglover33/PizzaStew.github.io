@@ -1,0 +1,22 @@
+﻿body {margin:0;padding:0;word-wrap:break-word;}
+img {border:none;}
+input {border:1px solid black;border-radius:2px;padding:0;}
+input[type=image] { border: none; }
+textarea {border:1px solid black;padding:0;}
+* {box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;-ms-box-sizing:content-box;}
+a:link {color:#ae3500;text-decoration:underline;}
+a:active {color:#ae3500;text-decoration:underline;}
+a:hover {color:#ae3500;text-decoration:underline;}
+a:visited {color:#ae3500;text-decoration:underline;}
+.DefaultParagraph { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#340a0c;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Body-Text-1 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:12.0px;vertical-align:0; }
+.Body-Text-2 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:11.0px;vertical-align:0; }
+.Contact-Details { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:11.0px;vertical-align:0; }
+.Fine-Print { text-align:center;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Tahoma", sans-serif;font-style:normal;font-weight:normal;color:#664748;background-color:transparent;font-variant:normal;font-size:9.0px;vertical-align:0; }
+.Heading-1 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:48.0px;vertical-align:0; }
+.Heading-2 { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#e0d6ca;background-color:transparent;font-variant:normal;font-size:11.0px;vertical-align:0; }
+.Heading-3 { text-align:right;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Trebuchet MS", sans-serif;font-style:normal;font-weight:normal;color:#5c3b3c;background-color:transparent;font-variant:normal;font-size:27.0px;vertical-align:0; }
+.Intro-Paragraph { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Arial", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:19.0px;vertical-align:0; }
+.Links { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Tahoma", sans-serif;font-style:normal;font-weight:normal;color:#fdf3e0;background-color:transparent;font-variant:normal;font-size:11.0px;vertical-align:0; }
+.Normal { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Verdana", sans-serif;font-style:normal;font-weight:normal;color:#340a0c;background-color:transparent;font-variant:normal;font-size:16.0px;vertical-align:0; }
+.Title { text-align:left;margin:0px;text-indent:0.0px;line-height:1px;font-family:"Swis721 BT", sans-serif;font-style:normal;font-weight:normal;color:#ffffff;background-color:transparent;font-variant:normal;font-size:64.0px;vertical-align:0; }
